@@ -15,6 +15,7 @@ export default [
     plugins: { prettier: prettierPlugin },
     rules: {
       'prettier/prettier': 'error'
+      // 'no-console': 'error' // Предупреждение при использовании console.log
     }
   }
 ];
