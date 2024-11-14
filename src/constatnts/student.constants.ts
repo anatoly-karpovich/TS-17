@@ -1,0 +1,2 @@
+export const TOTAL_NUMBER_OF_HOMEWORKS = 30;
+export const TOTAL_NUMBER_OF_LECTIONS = 35;
